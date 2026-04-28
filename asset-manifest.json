@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/VeriVeryMedi/static/css/main.6dd32a35.css",
+    "main.js": "/VeriVeryMedi/static/js/main.3117538b.js",
+    "static/js/488.c18e974e.chunk.js": "/VeriVeryMedi/static/js/488.c18e974e.chunk.js",
+    "service-worker.js": "/VeriVeryMedi/service-worker.js",
+    "index.html": "/VeriVeryMedi/index.html",
+    "main.6dd32a35.css.map": "/VeriVeryMedi/static/css/main.6dd32a35.css.map",
+    "main.3117538b.js.map": "/VeriVeryMedi/static/js/main.3117538b.js.map",
+    "488.c18e974e.chunk.js.map": "/VeriVeryMedi/static/js/488.c18e974e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dd32a35.css",
+    "static/js/main.3117538b.js"
+  ]
+}
